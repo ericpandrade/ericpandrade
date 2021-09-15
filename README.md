@@ -20,7 +20,6 @@
   <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Eric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Programmer Photo" height="200" src="https://o.remove.bg/downloads/0beffbdd-73a0-4f75-a58a-bdd5a9968ea2/BBS-Microsoft_WB-removebg-preview.png"
 </div>
   
   ##
