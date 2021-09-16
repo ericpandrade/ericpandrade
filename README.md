@@ -1,6 +1,6 @@
 ## Hi! I'm Eric Andrade. 👋
 
-- 💻 I'm tester on a scolarship. But I'm trying to move to the Front-End area
+- 💻 I'm tester on a scholarship. But I'm trying to move to the Front-End area
 - 📖 Studying React/Typescript
 - ⚡ Fun fact: I'm powered by coffee
 - 🎓 Studying Computer Engineering
