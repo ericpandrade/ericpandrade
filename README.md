@@ -1,7 +1,7 @@
 ## Hi! I'm Eric Andrade. 👋
 
-- 💻 I'm Developer at Front-End area work with React
-- 📖 Studying React | Node
+- 💻 I'm Developer at Front-End area work with React and Vue
+- 📖 Developer React | Vue
 - ⚡ Fun fact: I'm powered by coffee
 - 🎓 Studying Computer Engineering
 
